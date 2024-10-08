@@ -1,0 +1,14 @@
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/bin/Debug/net8.0/ShadowsOfYurei
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/bin/Debug/net8.0/ShadowsOfYurei.deps.json
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/bin/Debug/net8.0/ShadowsOfYurei.runtimeconfig.json
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/bin/Debug/net8.0/ShadowsOfYurei.dll
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/bin/Debug/net8.0/ShadowsOfYurei.pdb
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ShadowsOfYurei.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ShadowsOfYurei.AssemblyInfoInputs.cache
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ShadowsOfYurei.AssemblyInfo.cs
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ShadowsOfYurei.csproj.CoreCompileInputs.cache
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ShadowsOfYurei.dll
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/refint/ShadowsOfYurei.dll
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ShadowsOfYurei.pdb
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ShadowsOfYurei.genruntimeconfig.cache
+/Users/hodan/Documents/Docs/SSPS/CODE/ShadowsOfYurei/obj/Debug/net8.0/ref/ShadowsOfYurei.dll
